@@ -1,0 +1,13 @@
+2017-10-17 15:20:47,645 ERROR [com.iflytek.jrshi.ViewRedis.redis.RedisClient] 485 - <null>
+2017-10-17 15:20:47,647 ERROR [com.iflytek.jrshi.ViewRedis.redis.RedisClient] 175 - <>
+2017-10-17 15:20:48,872 ERROR [com.iflytek.jrshi.ViewRedis.redis.RedisClient] 157 - <Could not get a resource from the pool>
+2017-10-17 15:37:57,821 ERROR [com.iflytek.jrshi.ViewRedis.redis.RedisClient] 485 - <NOAUTH Authentication required.>
+2017-10-17 15:37:59,020 ERROR [com.iflytek.jrshi.ViewRedis.redis.RedisClient] 157 - <Could not get a resource from the pool>
+2017-10-17 15:47:29,984 ERROR [com.iflytek.jrshi.ViewRedis.redis.RedisClient] 157 - <Could not get a resource from the pool>
+2017-10-17 15:55:00,627 ERROR [com.iflytek.jrshi.ViewRedis.redis.RedisClient] 157 - <Could not get a resource from the pool>
+2017-10-17 15:56:10,477 ERROR [com.iflytek.jrshi.ViewRedis.redis.RedisClient] 157 - <Could not get a resource from the pool>
+2017-10-17 15:56:32,444 ERROR [com.iflytek.jrshi.ViewRedis.redis.RedisClient] 157 - <Could not get a resource from the pool>
+2017-10-17 15:57:10,322 ERROR [com.iflytek.jrshi.ViewRedis.redis.RedisClient] 157 - <Could not get a resource from the pool>
+2017-10-17 17:11:57,325 ERROR [com.iflytek.jrshi.ViewRedis.redis.RedisClient] 157 - <Could not get a resource from the pool>
+2017-10-17 17:13:22,320 ERROR [com.iflytek.jrshi.ViewRedis.redis.RedisClient] 157 - <Could not get a resource from the pool>
+2017-10-17 17:14:03,069 ERROR [com.iflytek.jrshi.ViewRedis.redis.RedisClient] 157 - <Could not get a resource from the pool>
